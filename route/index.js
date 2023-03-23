@@ -2,16 +2,16 @@ const express = require('express')
 const router =  express.Router()
 
 
-const {retrive,retriveOne,created,updated,deleted}=require('../mongoDb/index.js')
+const product =require('../controller/product.js')
 
 
 
 
-router.get('/getAll',retrive);
-router.get('/:name',retriveOne);
-router.post('/add',created);
-router.put('/:name',updated);
-router.delete('/:name',deleted);
+router.get('/getAll',product.getAll);
+router.get('/:name',product.getOne);
+router.post('/add',product.createOne);
+router.put('/:name',product.updateOne);
+router.delete('/:name',product.deleteOne);
 
-
-module.exports = router
+ 
+module.exports = router    

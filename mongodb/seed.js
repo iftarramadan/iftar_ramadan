@@ -1,11 +1,11 @@
-const { db } = require("./index.js");
-const Product = require("./product.js");
+const {nour}=require('./product.js')
+const {Ramadan} = require("./product.js");
 
 const DataProduct = require('../data.json');
 
 
 const insertSampleProducts = function () {
-  Product.create(DataProduct)
+  Ramadan.create(DataProduct)
     .then(() => {
       console.log("Database seeded successfully");
     })
@@ -13,7 +13,7 @@ const insertSampleProducts = function () {
       console.log("error seeding the database: ", error);
     })
     .finally(() => {
-      db.close();
+      nour.close();
     });
 };
 
