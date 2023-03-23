@@ -1,0 +1,65 @@
+[
+  {
+    "name": "couscous",
+    "description": "Couscous is small steamed balls of crushed durum wheat semolina that is traditionally served with a stew made with vegetables",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCub9_Q4cmgjOiCjFFrdQJNiEjE4xSKRxmGQ&usqp=CAU",
+    "price": "15 Dt",
+    "categories": "dishes"
+   },
+   {
+    "name": "Dorade au four & ses légumes",
+    "description": "A delicious fish baked in the middle of good colored and golden vegetables, a dish full of flavors, simple and quick that will suit everyone!",
+    "imageUrl": "http://i43.servimg.com/u/f43/09/03/28/48/daurad10.jpg",
+    "price": "30 Dt",
+    "categories": "dishes"
+   },
+   {
+    "name":"mar9et batata",
+    "description":"A fresh red sauce with tender pieces of meat and good simmered vegetables, to be enjoyed with good bread!",
+    "imageUrl":"https://thetunisianway.com/wp-content/uploads/2021/05/Mar9et-batata-Tunisian-potato-sauce.jpg",
+    "price":"15 Dt",
+    "categories": "dishes"
+   },
+   {
+    "name":"Boulettes de pommes de terre farcies au boeuf, béchamel",
+    "description":"Delicious meatballs with a heart of spicy ground beef, all covered with béchamel and au gratin in the oven under a rain of cheese..",
+    "imageUrl":"https://i.ytimg.com/vi/4GqjOqi3EsA/maxresdefault.jpg",
+    "price":"35 Dt",
+    "categories": "dishes"
+   },
+   {
+    "name":"Makarouna bel salsa",
+    "description":"Makarouna bel Salsa or Sansa a delicious Tunisian pasta recipe with spicy sauce",
+    "imageUrl":"https://lesucresale-doumsouhaib.com/wp-content/uploads/2020/04/p%C3%A2te-tunisienne-%C3%A0-la-sauce-piquante-makrouna.jpg",
+    "price":"15 Dt",
+    "categories": "dishes"
+   },
+   {
+    "name":"asidet boufriwa",
+    "description":"The hazelnuts are roasted and then mixed until an oily paste is obtained, then flour, milk and sugar are added.",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96ThXAVl_peoz_0pMnvBbcqBaBpAa-KLkZw&usqp=CAU",
+    "price":"7 Dt",
+    "categories": "dessert && snack"
+   },
+   {
+    "name":"Cake marbré au yaourt, glaçage rocher",
+    "description":"a tasty marble-style cake, very soft, half vanilla, half chocolate, covered with a gourmet layer of chocolate icing rock style with its almond chips..",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUAV39Y1moTAJWmtsflMfd5RyUudl57i-pA&usqp=CAU",
+    "price":"9 Dt",
+    "categories": "dessert && snack"
+   },
+   {
+    "name":"Flan coco caramel",
+    "description":"Coconut flan or West Indian flan.. A delicious dessert that will take you on a journey A layer of coconut and a layer of flan that are created during cooking, all topped with a runny caramel.. Here is a creamy dessert to eat well chilled",
+    "imageUrl":"https://www.grand-fermage.fr/wp-content/uploads/2022/03/recette-flan-coco-antillais-au-caramel-au-beurre-sale-beurre-demi-sel-charentes-poitou-aop-grand-fermage-scaled.jpg",
+    "price":"9 Dt",
+    "categories": "dessert && snack"
+   },
+   {
+    "name":"waffles",
+    "description":"The waffle recipes follow each other but are not alike hihi: today I offer you a dough with natural yogurt, without rest, for quick waffles.",
+    "imageUrl":"https://cdn.chefclub.tools/uploads/recipes/cover-thumbnail/e5eff4a1-8694-4188-bdbe-eaba55015481_Ghqd7dR.jpg",
+    "price":"10 Dt",
+    "categories": "dessert && snack"
+   }
+]
